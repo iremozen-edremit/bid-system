@@ -1,16 +1,4 @@
 
-Requirements:
- - Please complete the following programming exercise. Allow for about 4-6 hours.
- - You must use either Java, Python or Go. You may use the standard library for your
-   language freely, but not other third-party libraries.
- - Please produce production-quality code, providing tests and comments where necessary.
- - Provide all source code, ideally in a zip file / tarball so that it can be checked out and
-   built. Please do not share or upload the code anywhere else (e.g. Github).
- - Provide any additional resources that might be helpful, such as a README file.
-
-
-===========================================
-
 Consider you are running an auction website in which people can put items up for sale, and others
 can bid to buy them. At the end of each auction if there are bids in excess of the reserve price
 the highest bidder wins the item, however they pay the price of the second highest bid.
